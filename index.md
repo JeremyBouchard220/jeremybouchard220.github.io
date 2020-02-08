@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Jeremy Bouchard's GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/JeremyBouchard220/jeremybouchard220.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone! As you can probably already tell, there isn't much on my page yet. I am still new into the Coding World but I am having a lot of fun with it so far. I can't wait to show everyone how my skill will expand and where I end up going!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+I'm not sure if I'm going to start my own projects or if I'll upload some school assignments or maybe even a bit of both. Either way, I hope you'll check back in to see what I've done as I progress my skills.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Future Goals
 
-```markdown
-Syntax highlighted code block
+[] Complete a website to help artists not feel the axiety of possibly having their art stolen from them.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact Me
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JeremyBouchard220/jeremybouchard220.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you'd like to reach out to me for any reason, feel free to drop me an email at jbouchard220@gmail.com and I'll get back to you as soon as I can!
