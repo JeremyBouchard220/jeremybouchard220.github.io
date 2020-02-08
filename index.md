@@ -8,7 +8,7 @@ I'm not sure if I'm going to start my own projects or if I'll upload some school
 
 ### Future Goals
 
-- [ ] Complete a website to help artists not feel the axiety of possibly having their art stolen from them.
+* Complete a website to help artists not feel the axiety of possibly having their art stolen from them.
 
 #### Contact Me
 
